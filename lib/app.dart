@@ -22,7 +22,7 @@ class App extends StatelessWidget {
         // closer together (more dense) than on mobile platforms.
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomePage(title: '로또번호 생성기'),
+      home: HomePage(title: '로또 번호 생성기'),
     );
   }
 }
